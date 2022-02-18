@@ -128,7 +128,7 @@ img.frontPic{
     margin-top: 5%;
 }
 img.meetingIMG{
-    height: 10%;
+    height: 8%;
     min-width: 2%;
     border: 5px;
     border-radius: 20%;
@@ -136,7 +136,7 @@ img.meetingIMG{
 }
 img.foodIMG{
     resize:horizontal;
-    height: 10%;
+    height: 8%;
     min-width: 8%;
     border: 5px;
     border-radius: 25%;
@@ -144,14 +144,14 @@ img.foodIMG{
     transform: translate(0%,-10%);
 }
 img.bedroomIMG{
-    height: 14%;
+    height: 10%;
     min-width: 10%;
     border: 5px;
     border-radius: 25%;
     margin-right: 10%;
 }
 img.contactIMG{
-    height: 12%;
+    height: 10%;
     min-width: 10%;
     border: 5px;
     border-radius: 25%;
@@ -194,7 +194,7 @@ img.whatsappIcon,.facebookIcon,.instagramIcon{
 }
 
 .RVP,.RVS,.RVJ,.RVD,.RVC{
-  margin-bottom: 10%;
+  margin-bottom: 15%;
 }
 .functionsPackage{
   margin-left: 15%;
